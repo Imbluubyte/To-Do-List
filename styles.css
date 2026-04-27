@@ -1,0 +1,44 @@
+body {
+  background-color: white;
+  color: black;
+}
+
+h1 {
+  color: black;
+}
+
+ul {
+  padding: 10px;
+  border-radius: 10px;
+  font-size: 20px;
+  border-width: 10px;
+  border-color: black;
+}
+  
+
+button {
+  height: 30px;
+  width: 30px;
+  border-radius: 20px;
+  border-width: 0.1rem;
+  border-color: black;
+}
+
+button:hover {
+	height: 40px;
+	width: 40px;
+	cursor: pointer;
+}
+
+li:hover {
+	font-size: 25px;
+	text-decoration: underline;
+	cursor: pointer;
+}
+
+#textbox:hover {
+	cursor: text;
+	height: 30px;
+	width: 200px;
+}
+
